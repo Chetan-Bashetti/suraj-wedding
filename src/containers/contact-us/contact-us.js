@@ -10,7 +10,7 @@ const ContactUs = () => {
 
 	return (
 		<div className='contact-us-wrapper' id='wish_us'>
-			<div className='titles'>Visit us</div>
+			<div className='titles'>Venue</div>
 			<div className='contact-us-content-map'>
 				<div className='map'>
 					<iframe
