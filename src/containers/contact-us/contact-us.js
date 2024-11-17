@@ -35,7 +35,7 @@ const ContactUs = () => {
 					<div className='each-info'>
 						<div className='contact-us-content-title'>Timings</div>
 						<div className='contact-us-content-desc'>
-							{date}, 12:00pm Onwards,
+							27 November 2024 Onwards,
 						</div>
 					</div>
 					<div className='each-info' style={{ width: '100%' }}>
