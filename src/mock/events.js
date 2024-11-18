@@ -1,37 +1,17 @@
 export const events = [
 	{
-		title: 'Engagement',
-		key: 'engagement',
-		desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore'
-	},
-	{
 		title: 'Haldi',
 		key: 'haldi',
 		desc: 'Lorem ipsum dolor sit amet, '
 	},
 	{
+		title: 'Engagement',
+		key: 'engagement',
+		desc: "6 o'clock, 27th November, 2024"
+	},
+	{
 		title: 'Wedding Day',
 		key: 'wedding_day',
-		desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore'
-	},
-	{
-		title: 'Reception',
-		key: 'reception',
-		desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore'
-	},
-	{
-		title: 'Photography',
-		key: 'photography',
-		desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore'
-	},
-	{
-		title: 'Party',
-		key: 'party',
-		desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore'
-	},
-	{
-		title: 'Family Dinner',
-		key: 'family_dinner',
-		desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore'
+		desc: "12 o'clock on 28th of November, 2024"
 	}
 ];
